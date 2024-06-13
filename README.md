@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on an idea for a pet project<br />
 🌱 I’m currently learning how to create a resume<br />
-❓ Ask me about anything related to FPS games<br />
+❓ Ask me about anything related to tea<br />
 ⚡ Fun fact: CDs are read from the inner circle to the outer, and written exactly the opposite way
 
 ### 😂 Random Meme
