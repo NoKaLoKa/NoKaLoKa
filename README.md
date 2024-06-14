@@ -5,9 +5,6 @@
 ❓ Ask me about anything related to tea<br />
 ⚡ Fun fact: CDs are read from the inner circle to the outer, and written exactly the opposite way
 
-### 😂 Random Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
