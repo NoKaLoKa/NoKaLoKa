@@ -1,9 +1,10 @@
-## Hi, I'm Saveliy 👋
+## Привет, меня зовут Савелий  👋
 
-🔭 I’m currently working on an idea for a pet project<br />
-🌱 I’m currently learning how to create a resume<br />
-❓ Ask me about anything related to tea<br />
-⚡ Fun fact: CDs are read from the inner circle to the outer, and written exactly the opposite way
+🔭 Люблю решать задачи над которыми можно подумать<br />
+🌱 С удовольствием погружаюсь в изучение новых аспектов разработки<br />
+⚡ Fun fact: Одна из самых популярных ошибок в HTML - забыть закрыть тег<br />
+
+💼 Активно ищу работу
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
